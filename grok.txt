@@ -2,10 +2,6 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,api.grok.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,polyfill.io
-DOMAIN-SUFFIX,fonts.googleapis.com
-DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,analytics.google.com
-DOMAIN-SUFFIX,www.google-analytics.com
 DOMAIN-SUFFIX,api.x.ai
 DOMAIN-SUFFIX,accounts.x.com
 DOMAIN-SUFFIX,platform.twitter.com
