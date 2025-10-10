@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,4gq62f52gdss.ink
-DOMAIN-SUFFIX,4gq62f52gdss.art
-DOMAIN-SUFFIX,4gq62f52gdss.asia
+DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
+DOMAIN-SUFFIX,xn--4gq62f52gdss.art
+DOMAIN-SUFFIX,xn--4gq62f52gdss.asia
 DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.net
 DOMAIN-SUFFIX,xingjiabijichang.com
 DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
