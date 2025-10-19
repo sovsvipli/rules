@@ -18,6 +18,3 @@ DOMAIN-SUFFIX,pangujiexi.com
 DOMAIN-SUFFIX,8090g.cn
 DOMAIN-SUFFIX,isyour.love
 DOMAIN-SUFFIX,77flv.cc
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,kunlunle.com
-DOMAIN-SUFFIX,jinritemai.com
