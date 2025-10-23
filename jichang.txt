@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.net
 DOMAIN-SUFFIX,xingjiabijichang.com
 DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
 DOMAIN-SUFFIX,xn--mest5a943ag8x.com
-DOMAIN-SUFFIX,openwrt.ai
+
+
