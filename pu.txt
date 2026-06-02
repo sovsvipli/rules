@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,hls.one
 DOMAIN-SUFFIX,jiexi.789jiexi.icu
 DOMAIN-SUFFIX,playr.top
 DOMAIN-SUFFIX,fongmi.cc
+DOMAIN-SUFFIX,pouyun.com
