@@ -26,4 +26,3 @@ DOMAIN-SUFFIX,playr.top
 DOMAIN-SUFFIX,fongmi.cc
 DOMAIN-SUFFIX,pouyun.com
 DOMAIN-SUFFIX,ikanbot.com
-DOMAIN-SUFFIX,browserleaks.com
