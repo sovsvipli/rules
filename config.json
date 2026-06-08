@@ -1,3 +1,5 @@
+//singbox就是一根筋的东西，不能添加机场订阅，配置文件要不手搓，要不用substore来生成配置文件，关键是他妈的配置文件不通用，换个版本号就不能用。些文件只适合1.12.25这个版本//
+
 {
   "log": {
     "level": "info",
@@ -116,41 +118,41 @@
         
     
     {
-      "tag": "HongKong",
+      "tag": "HongKong01",
       "type": "vmess",
-      "server": "hk01.example.com",
+      "server": "1.1.1.1",
       "server_port": 443,
       "uuid": "11111111-1111-1111-1111-111111111111",
       "security": "auto"
     },
     {
-      "tag": "TaiWan",
+      "tag": "TaiWan01",
       "type": "vmess",
-      "server": "tw01.example.com",
+      "server": "8.8.8.8",
       "server_port": 443,
       "uuid": "22222222-2222-2222-2222-222222222222",
       "security": "auto"
     },
     {
-      "tag": "Singapore",
+      "tag": "Singapore01",
       "type": "vmess",
-      "server": "sg01.example.com",
+      "server": "9.9.9.9",
       "server_port": 443,
       "uuid": "33333333-3333-3333-3333-333333333333",
       "security": "auto"
     },
     {
-      "tag": "America",
+      "tag": "America01",
       "type": "vmess",
-      "server": "us01.example.com",
+      "server": "4.2.2.2",
       "server_port": 443,
       "uuid": "44444444-4444-4444-4444-444444444444",
       "security": "auto"
     },
     {
-      "tag": "Japan",
+      "tag": "Japan01",
       "type": "vmess",
-      "server": "jp01.example.com",
+      "server": "208.67.222.222",
       "server_port": 443,
       "uuid": "55555555-5555-5555-5555-555555555555",
       "security": "auto"
@@ -368,6 +370,7 @@
       "tag": "HongKong",
       "type": "selector",
       "outbounds": [
+        "HongKong01",
         "direct"
       ]
     },
@@ -375,6 +378,7 @@
       "tag": "TaiWan",
       "type": "selector",
       "outbounds": [
+	    "TaiWan01",
         "direct"
       ]
     },
@@ -382,6 +386,7 @@
       "tag": "Singapore",
       "type": "selector",
       "outbounds": [
+	    "Singapore01",
         "direct"
       ]
     },
@@ -389,6 +394,7 @@
       "tag": "Japan",
       "type": "selector",
       "outbounds": [
+	    "Japan01",
         "direct"
       ]
     },
@@ -396,6 +402,7 @@
       "tag": "America",
       "type": "selector",
       "outbounds": [
+	    "America01",
         "direct"
       ]
     },
