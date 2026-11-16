@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,api4.ipify.org
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,fastly.jsdelivr.net
+DOMAIN-SUFFIX,tls.browserleaks.com
