@@ -26,3 +26,4 @@
 +.fongmi.cc
 +.pouyun.com
 +.ikanbot.com
++.txnp.cn
